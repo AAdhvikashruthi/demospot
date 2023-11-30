@@ -2,10 +2,10 @@ package demo;
 
 import org.testng.annotations.Test;
 
-public class demoTest2 {
+public class Demo2Test {
 
 	@Test
-	public void demoTest3()
+	public void demo3Test()
 	{
 		System.out.println("demo3");
 	}
